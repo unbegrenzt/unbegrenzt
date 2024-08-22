@@ -11,9 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
@@ -30,6 +28,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/unbegrenzt_m/" target="_blank">
@@ -54,8 +54,16 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="200" width="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/unbegrenzt/unbegrenzt/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
