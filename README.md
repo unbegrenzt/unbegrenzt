@@ -2,7 +2,7 @@
 
 ![preview phone](https://github.com/unbegrenzt/unbegrenzt/assets/19624703/6ebea2c1-deb7-4647-b137-98a38d2905ee)
 
-<h3 align="center">Software engineer, UI-UX designer with more than 2 years of experience</h3>
+<h3 align="center">Front & mobile engineer with more than 5 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unbegrenzt&label=Profile%20views&color=866123&style=flat" alt="unbegrenzt" /> </p>
 
