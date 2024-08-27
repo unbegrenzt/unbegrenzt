@@ -58,6 +58,10 @@
   <img height="200" width="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
+<div align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/665f2ee1b998f3b3c79eb2ef?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
 ###
 
 <picture>
